@@ -1,8 +1,6 @@
 
   # canada website construction
-
-  This is a code bundle for canada website construction. The original project is available at https://www.figma.com/design/LfozymFIxnKcUZgqwJ6oDz/canada-website-construction.
-
+  # first construction project to my portfolio
   ## Running the code
 
   Run `npm i` to install the dependencies.
